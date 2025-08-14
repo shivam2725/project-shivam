@@ -1,6 +1,5 @@
 Here’s a 3-lane vehicle counting Python project.
 Multi-Lane Vehicle Counting using Python & Computer Vision in this project i have stored the youtube video directly in project folder which was fetching from folder as well. 
-Project Overview
 
 This project detects, tracks, and counts vehicles in **three distinct lanes** from a video feed using computer vision techniques. It maintains lane-wise counts and supports real-time processing.
 
